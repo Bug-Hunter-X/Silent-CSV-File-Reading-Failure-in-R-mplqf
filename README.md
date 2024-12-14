@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet easily overlooked, error in R programming: silent failure when reading CSV files. The `bug.R` file contains code that attempts to read a CSV file but lacks proper error handling.  The `bugSolution.R` file provides a corrected version with improved error handling, providing informative messages and handling various error scenarios.
